@@ -1135,6 +1135,11 @@ body {
 		width: 130px;
 	}
 
+	.footer__copyrights-item {
+		min-width: 125px;
+		text-align: center;
+	}
+
 	.footer__copyrights-item:nth-child(2) {
     	margin: 30px auto;
 	}
