@@ -2492,7 +2492,7 @@ body {
 
 	.care-block__card:hover {
 		z-index: 2;
-		transform: scale(0.97);
+		transform: scale(1.02, 1.02);
 	}
 
 	.care-block__card-image {
@@ -3328,6 +3328,7 @@ body {
 		width: 299px;
 		height: 45px;
 		box-sizing: border-box;
+		text-transform: none;
 		border-radius: 5px;
 	}
 
@@ -3376,7 +3377,7 @@ body {
 
 	.care-block__card:hover {
 		z-index: 2;
-		transform: scale(0.97);
+		transform: scale(1.02, 1.02);
 	}
 
 	.care-block__card-image {
@@ -3411,21 +3412,22 @@ body {
 
 	.care-block__button {
     	margin: 44px auto 0px;
-		padding: 10px 33px 9px 6px;
+		padding: 10px 36px 9px 6px;
 		width: 300px;
 		height: 45px;
-		background: transparent url(../../assets/icons/arrow-blue.svg) 265px 11px no-repeat;
+		text-transform: none;
+		background: transparent url(../../assets/icons/arrow-blue.svg) 247px 11px no-repeat;
 	}
 
 	.care-block__button:hover {
-		background: #20113D url(../../assets/icons/arrow.svg) 265px 11px no-repeat;
+		background: #20113D url(../../assets/icons/arrow.svg) 247px 11px no-repeat;
 	}
 
 	.care-block__image {
-		margin: 0 auto;
-		width: 319px;
+		width: 320px;
 		height: 189px;
 		object-fit: fill;
+		padding-left: 3px;
 		margin-bottom: 80px;
 	}
 
@@ -3482,12 +3484,14 @@ body {
 		margin: 0;
 		width: 299px;
 		height: 45px;
-		padding: 8px 30px 8px 5px;
-		background: #20113D url(../../assets/icons/arrow.svg) 269px 10px/24px 22px no-repeat;
+		margin-left: 3px;
+		padding: 8px 38px 8px 5px;
+		text-transform: none;
+		background: #20113D url(../../assets/icons/arrow.svg) 244px 11px/24px 22px no-repeat;
 	}
 
 	.footer__button:hover {
-		background: var(--green) url(../../assets/icons/arrow.svg) 269px 10px/24px 22px no-repeat;
+		background: var(--green) url(../../assets/icons/arrow.svg) 244px 11px/24px 22px no-repeat;
 	}
 
 	.footer__border-first {
