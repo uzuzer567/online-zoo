@@ -1087,11 +1087,11 @@ body {
 		margin-left: 3px;
 		padding: 8px 38px 8px 5px;
 		text-transform: none;
-		background: #20113D url(../../assets/icons/arrow.svg) 244px 11px/24px 22px no-repeat;
+		background: #20113D url(../../assets/icons/arrow.svg) 248px 11px/24px 22px no-repeat;
 	}
 
 	.footer__button:hover {
-		background: var(--green) url(../../assets/icons/arrow.svg) 244px 11px/24px 22px no-repeat;
+		background: var(--green) url(../../assets/icons/arrow.svg) 248px 11px/24px 22px no-repeat;
 	}
 
 	.footer__border-first {
