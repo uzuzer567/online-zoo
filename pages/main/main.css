@@ -3403,11 +3403,11 @@ body {
 
 	.care-block__card-button {
 		margin: 0;
-		background: transparent url(../../assets/icons/arrow-orange.svg) 89px 22px no-repeat;
+		background: transparent url(../../assets/icons/arrow-orange.svg) 89px 20px no-repeat;
 	}
 
 	.care-block__card-button:hover {
-		background: var(--orange) url(../../assets/icons/arrow.svg) 89px 22px no-repeat;
+		background: var(--orange) url(../../assets/icons/arrow.svg) 89px 20px no-repeat;
 	}
 
 	.care-block__button {
@@ -3416,11 +3416,11 @@ body {
 		width: 300px;
 		height: 45px;
 		text-transform: none;
-		background: transparent url(../../assets/icons/arrow-blue.svg) 249px 11px no-repeat;
+		background: transparent url(../../assets/icons/arrow-blue.svg) 251px 11px no-repeat;
 	}
 
 	.care-block__button:hover {
-		background: #20113D url(../../assets/icons/arrow.svg) 249px 11px no-repeat;
+		background: #20113D url(../../assets/icons/arrow.svg) 251px 11px no-repeat;
 	}
 
 	.care-block__image {
@@ -3487,11 +3487,11 @@ body {
 		margin-left: 3px;
 		padding: 8px 38px 8px 5px;
 		text-transform: none;
-		background: #20113D url(../../assets/icons/arrow.svg) 246px 11px/24px 22px no-repeat;
+		background: #20113D url(../../assets/icons/arrow.svg) 248px 11px/24px 22px no-repeat;
 	}
 
 	.footer__button:hover {
-		background: var(--green) url(../../assets/icons/arrow.svg) 246px 11px/24px 22px no-repeat;
+		background: var(--green) url(../../assets/icons/arrow.svg) 248px 11px/24px 22px no-repeat;
 	}
 
 	.footer__border-first {
