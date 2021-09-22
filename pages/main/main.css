@@ -178,7 +178,7 @@ body {
 }
 
 .watch-block {
-	background: url(../../assets/images/Background.png) center/contain no-repeat;
+	background: url(../../assets/main/watch-background.png) center/contain no-repeat;
 }
 
 .watch-block__content-item {
@@ -682,7 +682,7 @@ body {
 	width: 1900px;
 	margin: 0 auto;
 	overflow: hidden;
-	background: url(../../assets/images/image\ 97.png) center no-repeat;
+	background: url(../../assets/main/users-background.png) center no-repeat;
 }
 
 .users-block__content-item {
@@ -1183,7 +1183,7 @@ body {
 	}
 
 	.watch-block {
-		background: url(../../assets/images/Background.png) 70% 0%/1615px 710px no-repeat;
+		background: url(../../assets/main/watch-background.png) 70% 0%/1615px 710px no-repeat;
 	}
 
 	.watch-block__content {
@@ -1555,7 +1555,7 @@ body {
 		width: 1200px;
 		margin: 0 auto 0;
 		overflow: hidden;
-		background: url(../../assets/images/image\ 97.png) bottom left no-repeat;
+		background: url(../../assets/main/users-background.png) bottom left no-repeat;
 	}
 
 	.users-block__content-item {
@@ -1973,7 +1973,7 @@ body {
 	}
 	
 	.watch-block {
-		background: url(../../assets/images/Background.png) bottom/777px 350px no-repeat;	
+		background: url(../../assets/main/watch-background.png) bottom/777px 350px no-repeat;	
 	}
 	
 	.watch-block__content-item {
@@ -2356,7 +2356,7 @@ body {
 		width: 640px;
 		margin: 0 auto 0;
 		overflow: hidden;
-		background: #20113D url(../../assets/images/image\ 97.png) 0% 112%/ 975px 850px no-repeat;
+		background: #20113D url(../../assets/main/users-background.png) 0% 112%/ 975px 850px no-repeat;
 	}
 
 	.users-block__content-item {
@@ -2818,7 +2818,7 @@ body {
 	}
 	
 	.watch-block {
-		background: url(../../assets/images/Background.png) bottom/390px 180px no-repeat;	
+		background: url(../../assets/main/watch-background.png) bottom/390px 180px no-repeat;	
 	}
 
 	.watch-block__content {
@@ -3188,7 +3188,7 @@ body {
 		width: 320px;
 		margin: 0 auto 0;
 		overflow: hidden;
-		background: #20113D url(../../assets/images/image\ 97.png) bottom left/ 450px 380px no-repeat;
+		background: #20113D url(../../assets/main/users-background.png) bottom left/ 450px 380px no-repeat;
 	}
 
 	.users-block__content-item {
@@ -3704,7 +3704,7 @@ body {
 		width: 100%;
 	}
 	.watch-block {
-		background: url(../../assets/images/Background.png) bottom/390px 180px no-repeat;	
+		background: url(../../assets/main/watch-background.png) bottom/390px 180px no-repeat;	
 	}
 
 	.watch-block__content {
@@ -3977,7 +3977,7 @@ body {
 		width: 320px;
 		margin: 0 auto 0;
 		overflow: hidden;
-		background: #20113D url(../../assets/images/image\ 97.png) bottom left/ 450px 380px no-repeat;
+		background: #20113D url(../../assets/main/users-background.png) bottom left/ 450px 380px no-repeat;
 	}
 
 	.users-block__content-item {
