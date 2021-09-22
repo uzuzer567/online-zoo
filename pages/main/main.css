@@ -1877,7 +1877,7 @@ body {
 
 	.header__burger.active:before {
 		transform: rotate(45deg);
-		top: 10px;
+		top: 14px;
 		transition: all 0.5s ease-in-out 0.2s;
 		height: 3px;
 		background: #FFFFFF;
@@ -1885,7 +1885,7 @@ body {
 
 	.header__burger.active:after {
 		transform: rotate(-45deg);
-		bottom: 8px;
+		bottom: 13px;
 		transition: all 0.5s ease-in-out 0.2s;
 		height: 3px;
 		background: #FFFFFF;
@@ -1928,15 +1928,15 @@ body {
 	}
 
 	.header__nav-list-item:first-child {
-		margin: 0 auto 25px;
+		margin: 0 auto 19px;
 	}
 
 	.header__nav-list-item:last-child {
-		margin: 25px auto 0;
+		margin: 19px auto 0;
 	}
 
 	.header__nav-list-item {
-		margin: 25px auto;
+		margin: 19px auto;
 	}
 
 	.header__link.text__link {
@@ -2722,17 +2722,17 @@ body {
 
 	.header__burger.active:before {
 		transform: rotate(45deg);
-		top: 10px;
+		top: 14px;
 		transition: all 0.5s ease-in-out 0.2s;
-		height: 4px;
+		height: 2px;
 		background: #FFFFFF;
 	}
 
 	.header__burger.active:after {
 		transform: rotate(-45deg);
-		bottom: 8px;
+		bottom: 14px;
 		transition: all 0.5s ease-in-out 0.2s;
-		height: 4px;
+		height: 2px;
 		background: #FFFFFF;
 	}
 
@@ -2773,15 +2773,15 @@ body {
 	}
 
 	.header__nav-list-item:first-child {
-		margin: 0 auto 25px;
+		margin: 0 auto 5px;
 	}
 
 	.header__nav-list-item:last-child {
-		margin: 20px auto 0;
+		margin: 5px auto 0;
 	}
 
 	.header__nav-list-item {
-		margin: 20px auto;
+		margin: 5px auto;
 	}
 
 	.header__link.text__link {
